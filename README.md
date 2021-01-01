@@ -44,7 +44,7 @@
 | [Bistro](tasks/bistro.pdf)                                   | [bistro.cpp](src/bistro.cpp)                       | 8         | DT                 |
 | [Germs](tasks/germs.pdf)                                     | [germs.cpp](src/germs.cpp)                         | 8         | DT                 |
 | [H1N1](tasks/h1n1.pdf)                                       | [h1n1.cpp](src/h1n1.cpp)                           | 8         | DT + SP (planning) |
-| [Clues](tasks/clues.pdf)                                     | [clues.cpp](clues.cpp)                             | 8         | DT + DFS           |
+| [Clues](tasks/clues.pdf)                                     | [clues.cpp](src/clues.cpp)                         | 8         | DT + DFS           |
 | [Asterix and the Roman Legions](tasks/roman_legions.pdf)     |                                                    | PotW 9    |                    |
 | [Real Estate Market](tasks/real_estate_market.pdf)           | [real_estate.cpp](src/real_estate.cpp)             | 9         | MinCost-MaxFlow    |
 | [Placing Knights](tasks/placing_knights.pdf)                 | [placing_knights.cpp](src/placing_knights.cpp)     | 9         | MaxFlow            |
