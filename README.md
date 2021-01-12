@@ -53,11 +53,11 @@
 | [Idefix](tasks/idefix.pdf)                                   |                                                    | PotW 10   |                    |
 | [World Cup](tasks/world_cup.pdf)                             | [world_cup.cpp](src/world_cup.cpp)                 | 10        | LP + DT            |
 | [Asterix in Switzerland](tasks/switzerland.pdf)              | [switzerland.cpp](src/switzerland.cpp)             | 10        | MaxFlow            |
-| [Asterix and the Chariot Race](tasks/chariot_race.pdf)       |                                                    | 10        |                    |
-| [New York](tasks/new_york.pdf)                               |                                                    | 10        |                    |
+| [Asterix and the Chariot Race](tasks/chariot_race.pdf)       | [chariot_race.cpp](src/chariot_race.cpp)           | 10        | DP on Tree         |
+| [New York](tasks/new_york.pdf)                               | [new_york.cpp](src/new_york.cpp)                   | 10        | DFS on Tree        |
 | [Fleetrace](tasks/fleetrace.pdf)                             |                                                    | PotW 11   |                    |
-| [Lestrade](tasks/lestrade.pdf)                               |                                                    | 11        |                    |
-| [Return of the Jedi](tasks/return_of_the_jedi.pdf)           |                                                    | 11        |                    |
+| [Lestrade](tasks/lestrade.pdf)                               | [lestrade.cpp](src/lestrade.cpp)                   | 11        | LP + DT            |
+| [Return of the Jedi](tasks/return_of_the_jedi.pdf)           | [return_of_jedi.cpp](src/return_of_jedi.cpp)       | 11        | 2nd-best MST       |
 | [The Tourney of the Hand](tasks/tourney_of_hand.pdf)         |                                                    | 11        |                    |
 | [The Fighting Pits of Meereen](tasks/fighting_pits_of_meereen.pdf) |                                                    | 11        |                    |
 | [The Iron Islands](tasks/iron_islands.pdf)                   |                                                    | PotW 12   |                    |
