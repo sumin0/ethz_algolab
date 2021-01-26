@@ -40,7 +40,7 @@
 | [Diet](tasks/diet.pdf)                                       | [diet.cpp](src/diet.cpp)                           | 7         | LP                 |
 | [Inball](tasks/inball.pdf)                                   | [inball.cpp](src/inball.cpp)                       | 7         | LP                 |
 | [Radiation](tasks/radiation.pdf)                             | [radiation.cpp](src/radiation.cpp)                 | 7         | LP                 |
-| [Surveillance Photograhps](tasks/surveillance_photograhps.pdf) |                                                    | PotW 8    |                    |
+| [Surveillance Photograhps](tasks/surveillance_photographs.pdf) |                                                    | PotW 8    |                    |
 | [Bistro](tasks/bistro.pdf)                                   | [bistro.cpp](src/bistro.cpp)                       | 8         | DT                 |
 | [Germs](tasks/germs.pdf)                                     | [germs.cpp](src/germs.cpp)                         | 8         | DT                 |
 | [H1N1](tasks/h1n1.pdf)                                       | [h1n1.cpp](src/h1n1.cpp)                           | 8         | DT + SP (planning) |
@@ -61,8 +61,8 @@
 | [The Tourney of the Hand](tasks/tourney_of_hand.pdf)         | [hand.cpp](src/hand.cpp)                           | 11        | DT + UF            |
 | [The Fighting Pits of Meereen](tasks/fighting_pits_of_meereen.pdf) | [meereen.cpp](src/meereen.cpp)                     | 11        | DP                 |
 | [The Iron Islands](tasks/iron_islands.pdf)                   |                                                    | PotW 12   |                    |
-| [India](tasks/india.pdf)                                     |                                                    | 12        |                    |
-| [Hong Kong](tasks/hongkong.pdf)                              |                                                    | 12        |                    |
+| [India](tasks/india.pdf)                                     | [india.cpp](src/india.cpp)                         | 12        | MinCost-MaxFlow    |
+| [Hong Kong](tasks/hong_kong.pdf)                             |                                                    | 12        |                    |
 | [Car Sharing](tasks/car_sharing.pdf)                         |                                                    | 12        |                    |
 | [Moving Books](tasks/moving_books.pdf)                       |                                                    | 12        |                    |
 | [Lannister](tasks/lannister.pdf)                             | [lannister.cpp](src/lannister.cpp)                 | Test Exam | LP                 |
