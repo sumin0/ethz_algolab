@@ -29,7 +29,7 @@
 | [Boats](tasks/boats.pdf)                                     | [boats.cpp](src/boats.cpp)                         | 5         | Greedy             |
 | [Attack of the Clones](tasks/attack_of_clones.pdf)           | [attack_of_clones.cpp](src/attack_of_clones.cpp)   | 5         | Greedy             |
 | [San Francisco](tasks/san_francisco.pdf)                     | [san_francisco.cpp](src/san_francisco.cpp)         | 5         | Greedy             |
-| [Asterix the Gaul](tasks/asterix_the_gaul.pdf)               |                                                    | 5         |                    |
+| [Asterix the Gaul](tasks/asterix_the_gaul.pdf)               | [asterix.cpp](src/asterix.cpp)                     | 5         | Split & List       |
 | [Tracking](tasks/tracking.pdf)                               |                                                    | PotW 6    |                    |
 | [Shopping](tasks/shopping.pdf)                               | [shopping.cpp](src/shopping.cpp)                   | 6         | MaxFlow            |
 | [Knights](tasks/knights.pdf)                                 | [knights.cpp](src/knights.cpp)                     | 6         | MaxFlow            |
@@ -58,8 +58,8 @@
 | [Fleetrace](tasks/fleetrace.pdf)                             |                                                    | PotW 11   |                    |
 | [Lestrade](tasks/lestrade.pdf)                               | [lestrade.cpp](src/lestrade.cpp)                   | 11        | LP + DT            |
 | [Return of the Jedi](tasks/return_of_the_jedi.pdf)           | [return_of_jedi.cpp](src/return_of_jedi.cpp)       | 11        | 2nd-best MST       |
-| [The Tourney of the Hand](tasks/tourney_of_hand.pdf)         |                                                    | 11        |                    |
-| [The Fighting Pits of Meereen](tasks/fighting_pits_of_meereen.pdf) |                                                    | 11        |                    |
+| [The Tourney of the Hand](tasks/tourney_of_hand.pdf)         | [hand.cpp](src/hand.cpp)                           | 11        | DT + UF            |
+| [The Fighting Pits of Meereen](tasks/fighting_pits_of_meereen.pdf) | [meereen.cpp](src/meereen.cpp)                     | 11        | DP                 |
 | [The Iron Islands](tasks/iron_islands.pdf)                   |                                                    | PotW 12   |                    |
 | [India](tasks/india.pdf)                                     |                                                    | 12        |                    |
 | [Hong Kong](tasks/hongkong.pdf)                              |                                                    | 12        |                    |

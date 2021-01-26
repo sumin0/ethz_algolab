@@ -11,4 +11,4 @@ find_package(CGAL)
 # add_executable($EXAMPLE src/$EXAMPLE.cpp)
 
 # Additional line for those that require CGAL library
-# target_link_libraries(maximizeit CGAL::CGAL)
+# target_link_libraries($EXAMPLE CGAL::CGAL)
