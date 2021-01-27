@@ -62,9 +62,9 @@
 | [The Fighting Pits of Meereen](tasks/fighting_pits_of_meereen.pdf) | [meereen.cpp](src/meereen.cpp)                     | 11        | DP                 |
 | [The Iron Islands](tasks/iron_islands.pdf)                   |                                                    | PotW 12   |                    |
 | [India](tasks/india.pdf)                                     | [india.cpp](src/india.cpp)                         | 12        | MinCost-MaxFlow    |
-| [Hong Kong](tasks/hong_kong.pdf)                             |                                                    | 12        |                    |
-| [Car Sharing](tasks/car_sharing.pdf)                         |                                                    | 12        |                    |
-| [Moving Books](tasks/moving_books.pdf)                       |                                                    | 12        |                    |
+| [Hong Kong](tasks/hong_kong.pdf)                             | [hong_kong.cpp](src/hong_kong.cpp)                 | 12        | DT + SP            |
+| [Car Sharing](tasks/car_sharing.pdf)                         | [car_sharing.cpp](src/car_sharing.cpp)             | 12        | MinCost-MaxFlow    |
+| [Moving Books](tasks/moving_books.pdf)                       | [moving_books.cpp](src/moving_books.cpp)           | 12        | Greedy + BS        |
 | [Lannister](tasks/lannister.pdf)                             | [lannister.cpp](src/lannister.cpp)                 | Test Exam | LP                 |
 | [Punch](tasks/punch.pdf)                                     |                                                    | 13        |                    |
 | [Evolution](tasks/evolution.pdf)                             |                                                    | 13        |                    |
