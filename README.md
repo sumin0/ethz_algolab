@@ -66,9 +66,9 @@
 | [Car Sharing](tasks/car_sharing.pdf)                         | [car_sharing.cpp](src/car_sharing.cpp)             | 12        | MinCost-MaxFlow    |
 | [Moving Books](tasks/moving_books.pdf)                       | [moving_books.cpp](src/moving_books.cpp)           | 12        | Greedy + BS        |
 | [Lannister](tasks/lannister.pdf)                             | [lannister.cpp](src/lannister.cpp)                 | Test Exam | LP                 |
-| [Punch](tasks/punch.pdf)                                     |                                                    | 13        |                    |
-| [Evolution](tasks/evolution.pdf)                             |                                                    | 13        |                    |
-| [Sith](tasks/sith.pdf)                                       |                                                    | 13        |                    |
-| [Marathon](tasks/marathon.pdf)                               |                                                    | 13        |                    |
+| [Punch](tasks/punch.pdf)                                     | [punch.cpp](src/punch.cpp)                         | 13        | DP                 |
+| [Evolution](tasks/evolution.pdf)                             | [evolution.cpp](src/evolution.cpp)                 | 13        | DFS                |
+| [Sith](tasks/sith.pdf)                                       | [sith.cpp](src/sith.cpp)                           | 13        | DT + BS            |
+| [Marathon](tasks/marathon.pdf)                               | [marathon.cpp](src/marathon.cpp)                   | 13        | SP + MaxFlow       |
 | [On Her Majesty's Secret Service](tasks/secret_service.pdf)  |                                                    | PotW 14   |                    |
 
