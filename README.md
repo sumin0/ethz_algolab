@@ -15,7 +15,7 @@
 | [The Great Game](tasks/great_game.pdf)                       | [great_game.cpp](src/great_game.cpp)               | 2         | DP                 |
 | [Beach Bars](tasks/beach_bars.pdf)                           | [beach_bars.cpp](src/beach_bars.cpp)               | 2         | STL                |
 | [Search Snippets](tasks/search_snippets.pdf)                 | [search_snippets.cpp](src/search_snippets.cpp)     | 2         | SW                 |
-| [From Russia with Love](tasks/russia_with_love.pdf)          |                                                    | PotW 3    |                    |
+| [From Russia with Love](tasks/russia_with_love.pdf)          | [russia_with_love.cpp](src/russia_with_love.cpp)   | PotW 3    | DP                 |
 | [Hit](tasks/hit.pdf)                                         | [hit.cpp](src/hit.cpp)                             | 3         | Geo                |
 | [First Hit](tasks/first_hit.pdf)                             | [first_hit.cpp](src/first_hit.cpp)                 | 3         | Geo                |
 | [Antenna](tasks/antenna.pdf)                                 | [antenna.cpp](src/antenna.cpp)                     | 3         | Geo                |
@@ -70,5 +70,5 @@
 | [Evolution](tasks/evolution.pdf)                             | [evolution.cpp](src/evolution.cpp)                 | 13        | DFS                |
 | [Sith](tasks/sith.pdf)                                       | [sith.cpp](src/sith.cpp)                           | 13        | DT + BS            |
 | [Marathon](tasks/marathon.pdf)                               | [marathon.cpp](src/marathon.cpp)                   | 13        | SP + MaxFlow       |
-| [On Her Majesty's Secret Service](tasks/secret_service.pdf)  |                                                    | PotW 14   |                    |
+| [On Her Majesty's Secret Service](tasks/secret_service.pdf)  | [secret_service.cpp](src/secret_service.cpp)       | PotW 14   | SP + MaxMatching   |
 
