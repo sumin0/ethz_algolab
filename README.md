@@ -25,27 +25,27 @@
 | [Ant Challenge](tasks/ant_challenge.pdf)                     | [ant_challenge.cpp](src/ant_challenge.cpp)         | 4         | SP/MST             |
 | [Buddy Selection](tasks/buddy_selection.pdf)                 | [buddy_selection.cpp](src/buddy_selection.cpp)     | 4         | MaxMatching        |
 | [Important Bridges](tasks/important_bridges.pdf)             | [important_bridges.cpp](src/important_bridges.cpp) | 4         | Biconnected        |
-| [Motorcycles](tasks/motorcycles.pdf)                         |                                                    | PotW 5    |                    |
+| [Motorcycles](tasks/motorcycles.pdf)                         | [motorcycles.cpp](src/motorcycles.cpp)             | PotW 5    | Geo                |
 | [Boats](tasks/boats.pdf)                                     | [boats.cpp](src/boats.cpp)                         | 5         | Greedy             |
 | [Attack of the Clones](tasks/attack_of_clones.pdf)           | [attack_of_clones.cpp](src/attack_of_clones.cpp)   | 5         | Greedy             |
 | [San Francisco](tasks/san_francisco.pdf)                     | [san_francisco.cpp](src/san_francisco.cpp)         | 5         | Greedy             |
 | [Asterix the Gaul](tasks/asterix_the_gaul.pdf)               | [asterix.cpp](src/asterix.cpp)                     | 5         | Split & List       |
-| [Tracking](tasks/tracking.pdf)                               |                                                    | PotW 6    |                    |
+| [Tracking](tasks/tracking.pdf)                               | [tracking.cpp](src/tracking.cpp)                   | PotW 6    | SP                 |
 | [Shopping](tasks/shopping.pdf)                               | [shopping.cpp](src/shopping.cpp)                   | 6         | MaxFlow            |
 | [Knights](tasks/knights.pdf)                                 | [knights.cpp](src/knights.cpp)                     | 6         | MaxFlow            |
 | [Tiles](tasks/tiles.pdf)                                     | [tiles.cpp](src/tiles.cpp)                         | 6         | MaxFlow            |
 | [Kingdom Defence](tasks/kingdom_defence.pdf)                 | [kingdom_defence.cpp](src/kingdom_defence.cpp)     | 6         | MaxFlow            |
-| [Octopussy](tasks/octopussy.pdf)                             |                                                    | PotW 7    |                    |
+| [Octopussy](tasks/octopussy.pdf)                             | [octopussy.cpp](src/octopussy.cpp)                 | PotW 7    | Greedy             |
 | [Maximize it](tasks/maximize_it.pdf)                         | [maximize_it.cpp](src/maximize_it.cpp)             | 7         | LP                 |
 | [Diet](tasks/diet.pdf)                                       | [diet.cpp](src/diet.cpp)                           | 7         | LP                 |
 | [Inball](tasks/inball.pdf)                                   | [inball.cpp](src/inball.cpp)                       | 7         | LP                 |
 | [Radiation](tasks/radiation.pdf)                             | [radiation.cpp](src/radiation.cpp)                 | 7         | LP                 |
-| [Surveillance Photograhps](tasks/surveillance_photographs.pdf) |                                                    | PotW 8    |                    |
+| [Surveillance Photograhps](tasks/surveillance_photographs.pdf) | [photograph.cpp](src/photograph.cpp)               | PotW 8    | MaxFlow            |
 | [Bistro](tasks/bistro.pdf)                                   | [bistro.cpp](src/bistro.cpp)                       | 8         | DT                 |
 | [Germs](tasks/germs.pdf)                                     | [germs.cpp](src/germs.cpp)                         | 8         | DT                 |
 | [H1N1](tasks/h1n1.pdf)                                       | [h1n1.cpp](src/h1n1.cpp)                           | 8         | DT + SP (planning) |
 | [Clues](tasks/clues.pdf)                                     | [clues.cpp](src/clues.cpp)                         | 8         | DT + DFS           |
-| [Asterix and the Roman Legions](tasks/roman_legions.pdf)     |                                                    | PotW 9    |                    |
+| [Asterix and the Roman Legions](tasks/roman_legions.pdf)     | [legions.cpp](src/legions.cpp)                     | PotW 9    | LP                 |
 | [Real Estate Market](tasks/real_estate_market.pdf)           | [real_estate.cpp](src/real_estate.cpp)             | 9         | MinCost-MaxFlow    |
 | [Placing Knights](tasks/placing_knights.pdf)                 | [placing_knights.cpp](src/placing_knights.cpp)     | 9         | MaxFlow            |
 | [Algocoon Group](tasks/algocoon_group.pdf)                   | [algocoon.cpp](src/algocoon.cpp)                   | 9         | MaxFlow            |
@@ -55,7 +55,7 @@
 | [Asterix in Switzerland](tasks/switzerland.pdf)              | [switzerland.cpp](src/switzerland.cpp)             | 10        | MaxFlow            |
 | [Asterix and the Chariot Race](tasks/chariot_race.pdf)       | [chariot_race.cpp](src/chariot_race.cpp)           | 10        | DP on Tree         |
 | [New York](tasks/new_york.pdf)                               | [new_york.cpp](src/new_york.cpp)                   | 10        | DFS on Tree        |
-| [Fleetrace](tasks/fleetrace.pdf)                             |                                                    | PotW 11   |                    |
+| [Fleetrace](tasks/fleetrace.pdf)                             | [fleetrace.cpp](src/fleetrace.cpp)                 | PotW 11   | MinCost-MaxFlow    |
 | [Lestrade](tasks/lestrade.pdf)                               | [lestrade.cpp](src/lestrade.cpp)                   | 11        | LP + DT            |
 | [Return of the Jedi](tasks/return_of_the_jedi.pdf)           | [return_of_jedi.cpp](src/return_of_jedi.cpp)       | 11        | 2nd-best MST       |
 | [The Tourney of the Hand](tasks/tourney_of_hand.pdf)         | [hand.cpp](src/hand.cpp)                           | 11        | DT + UF            |
