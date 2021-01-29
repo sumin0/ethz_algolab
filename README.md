@@ -5,7 +5,7 @@
  Exercises from the course *Algorithms Lab*. The lecture synopsis can be found [here](https://www.cadmo.ethz.ch/education/lectures/HS20/algolab/index.html).
 
 | Task Description                                             | Implementation                                     | Week      | Theme              |
-| ------------------------------------------------------------ | -------------------------------------------------- | --------- | :----------------- |
+| :----------------------------------------------------------- | :------------------------------------------------- | :-------- | :----------------- |
 | [Even Pairs](tasks/even_pairs.pdf)                           | [even_pairs.cpp](src/even_pairs.cpp)               | 1         | STL                |
 | [Build the Sum](tasks/build_sum.pdf)                         | [build_sum.cpp](src/build_sum.cpp)                 | 1         | STL                |
 | [Dominoes](tasks/dominoes.pdf)                               | [dominoes.cpp](src/dominoes.cpp)                   | 1         | STL                |
@@ -50,7 +50,7 @@
 | [Placing Knights](tasks/placing_knights.pdf)                 | [placing_knights.cpp](src/placing_knights.cpp)     | 9         | MaxFlow            |
 | [Algocoon Group](tasks/algocoon_group.pdf)                   | [algocoon.cpp](src/algocoon.cpp)                   | 9         | MaxFlow            |
 | [Casino Royal](tasks/casino_royal.pdf)                       | [casino.cpp](src/casino.cpp)                       | 9         | MinCost-MaxFlow    |
-| [Idefix](tasks/idefix.pdf)                                   |                                                    | PotW 10   |                    |
+| [Idefix](tasks/idefix.pdf)                                   | [idefix.cpp](src/idefix.cpp)                       | PotW 10   | DT + UF            |
 | [World Cup](tasks/world_cup.pdf)                             | [world_cup.cpp](src/world_cup.cpp)                 | 10        | LP + DT            |
 | [Asterix in Switzerland](tasks/switzerland.pdf)              | [switzerland.cpp](src/switzerland.cpp)             | 10        | MaxFlow            |
 | [Asterix and the Chariot Race](tasks/chariot_race.pdf)       | [chariot_race.cpp](src/chariot_race.cpp)           | 10        | DP on Tree         |
@@ -60,7 +60,7 @@
 | [Return of the Jedi](tasks/return_of_the_jedi.pdf)           | [return_of_jedi.cpp](src/return_of_jedi.cpp)       | 11        | 2nd-best MST       |
 | [The Tourney of the Hand](tasks/tourney_of_hand.pdf)         | [hand.cpp](src/hand.cpp)                           | 11        | DT + UF            |
 | [The Fighting Pits of Meereen](tasks/fighting_pits_of_meereen.pdf) | [meereen.cpp](src/meereen.cpp)                     | 11        | DP                 |
-| [The Iron Islands](tasks/iron_islands.pdf)                   |                                                    | PotW 12   |                    |
+| [The Iron Islands](tasks/iron_islands.pdf)                   | [iron_islands.cpp](src/iron_islands.cpp)           | PotW 12   | SW                 |
 | [India](tasks/india.pdf)                                     | [india.cpp](src/india.cpp)                         | 12        | MinCost-MaxFlow    |
 | [Hong Kong](tasks/hong_kong.pdf)                             | [hong_kong.cpp](src/hong_kong.cpp)                 | 12        | DT + SP            |
 | [Car Sharing](tasks/car_sharing.pdf)                         | [car_sharing.cpp](src/car_sharing.cpp)             | 12        | MinCost-MaxFlow    |
